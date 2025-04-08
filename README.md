@@ -1,6 +1,6 @@
 # calculatorProject
 
-How to run:
+How to run project:
 ```
 docker compose up
 ```
